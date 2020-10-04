@@ -1,7 +1,6 @@
 # dct-snn
 
-#### Code Submitted with DCT-SNN: Using DCT to Distribute Spatial Information over 
-Time for Learning Low-Latency Spiking Neural Networks ###
+#### Code for the paper titled DCT-SNN: Using DCT to Distribute Spatial Information over Time for Learning Low-Latency Spiking Neural Networks ###
 
 We first train an ANN, if ANN training is intended, that can be done using
 vgg_ann_submit.py file which loads the models from vgg_ann_models_submit
