@@ -2,6 +2,8 @@
 
 #### Code for the paper titled DCT-SNN: Using DCT to Distribute Spatial Information over Time for Learning Low-Latency Spiking Neural Networks ###
 
+In this projet, a new encoding scheme for SNNs is proposed, where the analog pixel values are represented over time through DCT based modulated by the correspoding coefficients.
+
 We first train an ANN, if ANN training is intended, that can be done using
 vgg_ann_submit.py file which loads the models from vgg_ann_models_submit
 
