@@ -1,4 +1,4 @@
-# dct-snn ICCV 2021
+# DCT-SNN ICCV 2021
 
 #### Code for the paper titled DCT-SNN: Using DCT to Distribute Spatial Information over Time for Learning Low-Latency Spiking Neural Networks ###
 
