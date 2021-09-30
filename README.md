@@ -1,6 +1,10 @@
-# dct-snn
+# dct-snn ICCV 2021
 
 #### Code for the paper titled DCT-SNN: Using DCT to Distribute Spatial Information over Time for Learning Low-Latency Spiking Neural Networks ###
+
+https://arxiv.org/abs/2010.01795
+
+The paper has been accepted to ICCV 2021.
 
 In this projet, a new encoding scheme for SNNs is proposed, where the analog pixel values are represented over time through DCT based modulated by the correspoding coefficients.
 
